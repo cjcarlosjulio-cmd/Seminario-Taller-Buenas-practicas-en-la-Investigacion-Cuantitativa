@@ -7,7 +7,7 @@
 
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=repository%20visits&countColor=%230c7ebe&style=flat&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Visitas%20Repositorio&countColor=%23EA4335&style=flat&labelStyle=none&left_color=EA4335&right_color=25D366)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/henriquesebastiao/badges/blob/main/LICENSE)
 ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
 ![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges)
