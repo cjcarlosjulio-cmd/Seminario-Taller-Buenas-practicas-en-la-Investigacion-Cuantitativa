@@ -1,12 +1,11 @@
-# Seminario-Taller: Buenas Prácticas en la Investigación Cuantitativa
-
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_UCE_2022.png" alt="Logo Universidad Central del Ecuador" width="150"/>  
-</div>
+    <img src="Assets/UCE.png" alt="Logo Universidad Central del Ecuador" width="150"/>  
 
-## Universidad Central del Ecuador  
-### Vicerrectorado Académico y de Posgrado  
-### Dirección de Desarrollo Académico
+    #Seminario-Taller: Buenas Prácticas en la Investigación Cuantitativa  
+    ##Universidad Central del Ecuador  
+    ###Vicerrectorado Académico y de Posgrado  
+    ###Dirección de Desarrollo Académico
+</div>
 
 ---
 
