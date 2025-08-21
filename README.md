@@ -62,23 +62,28 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 ## **Recursos Utilizados por el Dr. Carlos Mayorga**
 
-| **Tema**                                           | **Fecha**            | **Hora**      | **Modalidad** | **Recursos** |
-| -------------------------------------------------- | -------------------- | ------------- | ------------- | ------------ |
-| **Epistemología de la Investigación Cuantitativa** | 8 de septiembre 2025 | **08h30 a 10h30** | Presencial    | [Artículo base sobre tipos de investigación](articulos/tipos_investigacion.pdf)  |
-| - Introducción a la Epistemología                  | 8 de septiembre 2025 | 08h30 a 08h50     | Presencial    | [Presentación PDF](notas/epistemologia_investigacion.pdf)                        |
-| - Confiabilidad y validez                          | 8 de septiembre 2025 | 08h50 a 09h20     | Presencial    | [Ejemplo de variables](notas/ejemplo_variables.pdf)                              |
-| - Identificación de variables                      | 8 de septiembre 2025 | 09h20 a 09h45     | Presencial    |                                                                                  |
-| - Alcances                                         | 8 de septiembre 2025 | 09h45 a 10h10     | Presencial    |                                                                                  |
-| - Preguntas y discusión                            | 8 de septiembre 2025 | 10h10 a 10h30     | Presencial    |                                                                                  |
-| **Tipos de Investigación Cuantitativa**            | 8 de septiembre 2025 | **10h30 a 13h30** | Presencial    |                                                                                  |
-| - Investigación Experimental                       | 8 de septiembre 2025 | 10h30 a 11h10     | Presencial    |                                                                                  |
-| - Investigación Cuasi-experimental Cuantitativa    | 8 de septiembre 2025 | 11h10 a 11h50     | Presencial    |                                                                                  |
-| - Investigación Cuantitativa No Experimental       | 8 de septiembre 2025 | 11h50 a 12h20     | Presencial    |                                                                                  |
-| - Ejemplos prácticos (PCA, ANOVA, Tukey)           | 8 de septiembre 2025 | 12h20 a 13h10     | Presencial    |                                                                                  |
-| - Preguntas y discusión                            | 8 de septiembre 2025 | 13h10 a 13h30     | Presencial    |                                                                                  |
+<div align="center">
+
+| Tema                                          | Subtema                                      | Horas             | 
+|-----------------------------------------------|----------------------------------------------|-------------------|
+| **Epistemología de la Investigación Cuantitativa** | Introducción a la Epistemología               | 08h30 a 08h50     |        
+|                                               | Confiabilidad y validez                       | 08h50 a 09h20     |              
+|                                               | Identificación de variables                   | 09h20 a 09h45     |              
+|                                               | Alcances                                      | 09h45 a 10h13     |                         
+| **Tipos de Investigación Cuantitativa**             | Investigación Experimental                     | 10h30 a 11h10     |          
+|                                               | Investigación Cuasi-experimental               | 11h10 a 11h50     |              
+|                                               | Investigación No Experimental                  | 11h50 a 12h20     |              
+|                                               | Ejemplos prácticos (PCA, ANOVA, Tukey)        | 12h20 a 13h30     |              
 
 
 
+
+</div>
+
+
+* [Presentación Jupyter Notebook](notas/epistemologia_investigacion.pdf)   
+* [Dataset para PCA](https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv)  
+* [Paper](notas/ejemplo_variables.pdf)                                                                     
 ---
 
 ## Referencias
@@ -92,11 +97,12 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 4. Jolliffe, I. T., & Cadima, J. (2016). Principal component analysis: A review and recent developments. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, *374*(2065), 20150202. https://doi.org/10.1098/rsta.2015.0202
 
 5. Field, A. (2013). *Discovering statistics using IBM SPSS Statistics* (4th ed.). SAGE Publications.
+   
+6. Schork, J. (2020). Datasets for PCA (Free CSV Download) | Synthetic & Real Data. Statistics Globe. Recuperado de https://statisticsglobe.com/datasets-for-pca
 
-6. Tukey, J. W. (1977). *Exploratory data analysis*. Addison-Wesley.
+7. Tukey, J. W. (1977). *Exploratory data analysis*. Addison-Wesley.
 
-7. Zavala, R. J. (2019). Fundamentos epistémicos de la investigación cualitativa y cuantitativa. *Revista Científica de Ciencias de la Salud*, *22*(1), 75–80. [https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2223-25162019000100008](https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2223-25162019000100008)
-
+8. Zavala, R. J. (2019). Fundamentos epistémicos de la investigación cualitativa y cuantitativa. *Revista Científica de Ciencias de la Salud*, *22*(1), 75–80. [https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2223-25162019000100008](https://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2223-25162019000100008)
 
 ---
 
