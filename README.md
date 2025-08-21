@@ -81,9 +81,10 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 </div>
 
 
-* [Presentación Jupyter Notebook](notas/epistemologia_investigacion.pdf)   
+* [Presentación Jupyter Notebook](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Analisis_Cuanti.ipynb)
+* [Ejemplos y Ejercicios]()
 * [Dataset para PCA](https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv)  
-* [Paper](notas/ejemplo_variables.pdf)                                                                     
+* [Artículo](notas/ejemplo_variables.pdf)                                                                     
 ---
 
 ## Referencias
