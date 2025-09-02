@@ -50,12 +50,12 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 | **Día**         | **Hora**            | **Tema**                                               | **Facilitador**                                    | **Modalidad** |
 |-----------------|---------------------|--------------------------------------------------------|--------------------------------------------------|---------------|
-| **8 de septiembre** | 08h30 a 10h30       | Epistemología de la Investigación Cuantitativa         | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
-| **8 de septiembre** | 10h30 a 13h30       | Tipos de Investigación Cuantitativa                     | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
-| **9 de septiembre** | 08h30 a 10h30       | Población y Muestra                                   | Dr. Jorge Arroba Rimassa, Facultad de Ciencias Aplicadas | Presencial    |
-| **9 de septiembre** | 10h30 a 13h30       | Diseño de Instrumento                                  | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Presencial    |
-| **10 de septiembre**| 08h30 a 13h30       | Diseño de Instrumento (Cuestionario)                   | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Virtual       |
-| **10 de septiembre**| 10h30 a 13h30       | Introducción a Python                                  | Ing. Jonathan Sánchez, Centro de Física           | Virtual       |
+| **8 de septiembre** | 11h00 a 13h30       | Epistemología de la Investigación Cuantitativa         | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
+| **9 de septiembre** | 8h30 a 13h30       | Tipos de Investigación Cuantitativa                     | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
+| **10 de septiembre** | 08h30 a 10h30       | Población y Muestra                                   | Dr. Jorge Arroba Rimassa, Facultad de Ciencias Aplicadas | Presencial    |
+| **10 de septiembre** | 10h30 a 13h30       | Diseño de Instrumento                                  | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Presencial    |
+| **11 de septiembre**| 08h30 a 13h30       | Diseño de Instrumento (Cuestionario)                   | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Virtual       |
+| **11 de septiembre**| 10h30 a 13h30       | Introducción a Python                                  | Ing. Jonathan Sánchez, Centro de Física           | Virtual       |
 | **11 de septiembre**| 19h00 a 21h00       | Enfoques educativos y pedagógicos en el Bicentenario de la Fundación Republicana | MSc. Edgar Isch, Director General Académico       | Virtual       |
 
 ---
